@@ -1,4 +1,4 @@
-# MiniMax-Tic-tac-toe-5x5-Grid-Game
+# Python MiniMax-Tic-tac-toe-5x5-Grid-Game
 
 ESILV 2021–2022
 
